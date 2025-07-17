@@ -1,0 +1,40 @@
+The Census Bureau divides the country up into geographic regions, smaller than counties, called tracts of a few thousand people each, and reports much of its data at the level of tracts. This data set, drawn from the 2011 American Community Survey, contains information on the housing stock and economic circumstances. For each tract, the data file records a large number of variables.
+
+
+Remember that these are not values for individual houses or families, but summaries of all of the houses and families in the tract.
+
+"X1"                            observation number
+"GEO.id2"                       geographic ID code
+"STATEFP"                       code for the state
+"COUNTYFP"                      code for the county
+"TRACTCE"                       code for the tract 
+"POPULATION"                    population of the tract
+"LATITUDE"                      latitude of the tract
+"LONGITUDE"                     longitude of the tract           
+"GEO.display.label"             name of the tract
+"Median_house_value"            median value of the housing units in the tract
+"Total_units"                   total number of units (houses) in the tract
+"Vacant_units"                  number of vacant units
+"Median_rooms"                  median number of rooms per unit
+"Mean_household_size_owners"    mean number of people per household which owns its home
+"Mean_household_size_renters"   mean number of people per renting household
+"Built_2005_or_later"           percentage of housing units built in 2005 or later
+"Built_2000_to_2004"            idem in 2000–2004
+"Built_1990s"                   idem in the 1990s
+"Built_1980s"                   idem in the 1980s
+"Built_1970s"                   idem in the 1970s
+"Built_1960s"                   idem in the 1960s
+"Built_1950s"                   idem in the 1950s
+"Built_1940s"                   idem in the 1940s
+"Built_1939_or_earlier"         idem in 1939 or earlier
+"Bedrooms_0"                    percentage of housing units with 0 bedrooms
+"Bedrooms_1"                    idem with 1 bedroom
+"Bedrooms_2"                    idem with 2 bedrooms
+"Bedrooms_3"                    idem with 3 bedrooms
+"Bedrooms_4"                    idem with 4 bedrooms
+"Bedrooms_5_or_more"            idem with 5 or more bedrooms
+"Owners"                        percentage of households which own their home
+"Renters"                       percentage of households which rent
+"Median_household_income"       median income of households (in dollars, from all sources) 
+"Mean_household_income"         mean income of households (in dollars, from all sources)
+
