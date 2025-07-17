@@ -20,7 +20,7 @@ Below is a list of the projects included in this repository, along with a brief 
 ### 2. [**Advance_Econometrics_2: Prediction and Financial Investment**]
 * **Description:** This project addresses two distinct problems: an empirical prediction task involving housing price estimation using various parametric and non-parametric machine learning models (OLS, LASSO, Ridge, Decision Trees, Random Forests), and an optional problem estimating the causal effect of 401(k) pension plan participation on financial assets using OLS and Double Machine Learning (Lasso and Random Forest).
 * **Technologies/Tools:** Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Statsmodels, DoubleML)
-* **Contents:** Colab notebook (`Advance_Econometrics_Take_Home_Exam_2.ipynb`), and the raw dataset (`calif_penn_2011_2.csv`, `calif_penn_2011.txt`, `pension.csv`).
+* **Contents:** Colab notebook (`Advance_Econometrics_Take_Home_Exam_2.ipynb`), and the raw dataset (`calif_penn_2011_2.csv`, `calif_penn_2011.txt`).
 
 
 ### 3. [**Project Name 3**]
