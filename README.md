@@ -11,16 +11,17 @@ This space aims to consolidate and showcase the work developed during this Maste
 
 Below is a list of the projects included in this repository, along with a brief description of each:
 
-### 1. [**Advance_Econometrics_1**]
+### 1. [**Advance_Econometrics_1: Indirect Inference and Metropolis-Hastings**]
 * **Description:** This project explores advanced econometric techniques, specifically focusing on Maximum Likelihood Estimation (MLE) and Indirect Inference for MA(1) processes, and the implementation of Metropolis-Hastings (MH) algorithms for AR(2) models under different prior specifications.
 * **Technologies/Tools:** MATLAB
 * **Contents:** MATLAB scripts (`P1_Indirect_Inference.m`, `P2_MH.m`), and a detailed PDF report (`Advance_Econometrics_Take_Home_Exame_1.pdf`) discussing results and methodologies.
 
 
-### 2. [**Project Name 2**]
-* **Description:** [Brief description. E.g., "Implementation of a Convolutional Neural Network model for image classification of [specify, e.g., MNIST digits, animals, plants]."]
-* **Technologies/Tools:** [E.g., Python, TensorFlow, Keras]
-* **Contents:** [E.g., "source code, trained models, configuration files."]
+### 2. [**Advance_Econometrics_2: Prediction and Financial Investment**]
+* **Description:** This project addresses two distinct problems: an empirical prediction task involving housing price estimation using various parametric and non-parametric machine learning models (OLS, LASSO, Ridge, Decision Trees, Random Forests), and an optional problem estimating the causal effect of 401(k) pension plan participation on financial assets using OLS and Double Machine Learning (Lasso and Random Forest).
+* **Technologies/Tools:** Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Statsmodels, DoubleML)
+* **Contents:** Colab notebook (`Advance_Econometrics_Take_Home_Exam_2.ipynb`), and the raw dataset (`calif_penn_2011_2.csv`, `calif_penn_2011.txt`, `pension.csv`).
+
 
 ### 3. [**Project Name 3**]
 * **Description:** [Brief description. E.g., "Development of an interactive web application for [specify functionality, e.g., task management, real-time data visualization]."]
