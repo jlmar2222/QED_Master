@@ -11,10 +11,11 @@ This space aims to consolidate and showcase the work developed during this Maste
 
 Below is a list of the projects included in this repository, along with a brief description of each:
 
-### 1. [**Project Name 1**]
-* **Description:** [Brief 1-2 sentence description. E.g., "This project focuses on sales data analysis using visualization techniques and predictive modeling to identify trends and patterns."]
-* **Technologies/Tools:** [List of technologies, e.g., Python, Pandas, Matplotlib, Scikit-learn]
-* **Contents:** [Mention what's inside the project folder, e.g., "Jupyter notebooks, Python scripts, example dataset."]
+### 1. [**Advance_Econometrics_1**]
+* **Description:** This project explores advanced econometric techniques, specifically focusing on Maximum Likelihood Estimation (MLE) and Indirect Inference for MA(1) processes, and the implementation of Metropolis-Hastings (MH) algorithms for AR(2) models under different prior specifications.
+* **Technologies/Tools:** MATLAB
+* **Contents:** MATLAB scripts (`P1_Indirect_Inference.m`, `P2_MH.m`), and a detailed PDF report (`Advance_Econometrics_Take_Home_Exame_1.pdf`) discussing results and methodologies.
+
 
 ### 2. [**Project Name 2**]
 * **Description:** [Brief description. E.g., "Implementation of a Convolutional Neural Network model for image classification of [specify, e.g., MNIST digits, animals, plants]."]
