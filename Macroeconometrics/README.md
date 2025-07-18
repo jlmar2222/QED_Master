@@ -33,9 +33,10 @@ This repository contains the following files:
 
 * `Final_Project_.ipynb`: The main Colab Notebook containing the implementation of the Bayesian Multivariate Markov Switching Dynamic Factor Model, including code, detailed analysis, and results. This is the primary notebook for exploring the methodology.
 * `Results.ipynb`: A Colab Notebook containing the code that reproduce visualizations of the results.
-* `Results.pdf`: A PDF with the visualization of the results.
+* `Results_.pdf`: A PDF with the visualization of the results.
 * `Data_ME.ipynb`: A Colab Notebook dedicated to data elicitation, preprocessing, and cleaning for the macroeconomic variables used in the project.
-* `USA_Normalize_Data.csv`: The primary dataset used for the estimation and analysis in the project.
+* `USA_Normalize_Data_.csv`: The primary dataset used for the estimation and analysis in the project.
+* `USA_Recession_Data_.csv`: Recession Data for comparative purposes.
 * `Real-Time Weakness of the Global Economy.pdf`: A PDF document with the in-working-process paper we have replicated.
 
 
