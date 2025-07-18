@@ -23,10 +23,10 @@ Below is a list of the projects included in this repository, along with a brief 
 * **Contents:** Colab notebook (`Advance_Econometrics_Take_Home_Exam_2.ipynb`), and the raw dataset (`calif_penn_2011_2.csv`, `calif_penn_2011.txt`).
 
 
-### 3. [**Project Name 3**]
-* **Description:** [Brief description. E.g., "Development of an interactive web application for [specify functionality, e.g., task management, real-time data visualization]."]
-* **Technologies/Tools:** [E.g., Python (Flask/Django), HTML, CSS, JavaScript, D3.js]
-* **Contents:** [E.g., "application structure, static files, example database."]
+### 3. [**Macroeconometrics: MS Factor Model with Bayesian Techniques**]
+* **Description:** This project focuses on the implementation and analysis of a Markov-Switching (MS) Factor Model, employing Bayesian techniques for estimation. It involves data preparation, model specification, and the results in a macroeconometric context. It represents the replication of the "Real-Time Weakness of the Global Economy" in some of its working process phases.
+* **Technologies/Tools:** Python (NumPy, Pandas, Matplotlib, Statsmodels)
+* **Contents:** Colab notebooks covering data handling (`Data_ME.ipynb`), the core model implementation (`Final_Project_.ipynb`), and the presentation of results (`Results.ipynb`).
 
 ### 4. [**Project Name 4**]
 * **Description:** [Brief description.]
