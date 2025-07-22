@@ -40,13 +40,3 @@ Below is a list of the projects included in this repository, along with a brief 
 You can explore each project by navigating through the individual directories. Inside each folder, you'll find a specific `README.md` for that project with more detailed instructions on how to run the code, the results obtained, and any other relevant information.
 
 ---
-
-## Contact
-
-If you have any questions or suggestions, feel free to reach out:
-
-* **Your Name**
-* [**Your LinkedIn Profile (Optional)**]
-* [**Your Email Address (Optional)**]
-
----
