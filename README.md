@@ -28,10 +28,9 @@ Below is a list of the projects included in this repository, along with a brief 
 * **Technologies/Tools:** Python (NumPy, Pandas, Matplotlib, Statsmodels)
 * **Contents:** Colab notebooks covering data handling (`Data_ME.ipynb`), the core model implementation (`Final_Project_.ipynb`), and the presentation of results (`Results.ipynb`).
 
-### 4. [**Project Name 4**]
-* **Description:** [Brief description.]
-* **Technologies/Tools:** [List of technologies.]
-* **Contents:** [What's inside the project folder.]
+### 4. [**Selected Academic Presentations**]
+* **Description:** This section compiles a selection of presentations delivered for various courses throughout the Master's program. These presentations cover diverse topics in quantitative economics, including:
+* **Contents:** PDF files of the presentations.
 
 ---
 
